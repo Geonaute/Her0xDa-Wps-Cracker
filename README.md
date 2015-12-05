@@ -5,9 +5,7 @@
 ##### This Tool Work As A Helper For Pixiewps Based On Bash (Full Automated) Using :
 * "Piexiewps"
 * "Reaver"
-* "Bully"
-* "Aircrack Suite"
-* "Wash"
+
 
 #### Preview :
 ![1](http://i.imgur.com/ZaxbwLl.jpg?1)
